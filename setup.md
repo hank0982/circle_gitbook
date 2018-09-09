@@ -1,7 +1,3 @@
----
-description: 'Before you do anything, you gotta have a computer.'
----
-
 # Setup
 
 ## What we'll cover here

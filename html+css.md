@@ -1,7 +1,3 @@
----
-description: Basic elements of a web page
----
-
 # HTML+CSS
 
 ## What is HTML/CSS

@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Start with javascript](README.md)
+* [Announcement](README.md)
 * [Circle Coding Intro](intro.md)
 * [Setup](setup.md)
 * [HTML+CSS](html+css.md)

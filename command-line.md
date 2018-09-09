@@ -1,9 +1,3 @@
----
-description: >-
-  In order to get you more familiar with terminal (mac) gitbash (windows), you
-  need to learn some basic commands.
----
-
 # Command Line
 
 ```
