@@ -78,3 +78,4 @@ apple = {juicy: false} //ERROR
 
 However, it acts slightly different from constant variables you learned from other languages. For further details, please check [link](https://www.w3schools.com/js/js_const.asp)
 
+

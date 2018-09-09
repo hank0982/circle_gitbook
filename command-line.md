@@ -22,4 +22,3 @@ kill -9 (PID) - kills specified process by its ID
 {% hint style="warning" %}
 If anyone suggests you to sudo rm -r in your root directory, get as far away from that person as possible.
 {% endhint %}
-
