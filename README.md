@@ -4,6 +4,7 @@
 
 * [ ] Build up your personal website
 
+
 {% exercise %}
 Define a variable `x` equal to 10.
 
