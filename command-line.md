@@ -44,4 +44,4 @@ function exposedFunction {
     return 3;
 }
 {% endexercise %}
-
+test
