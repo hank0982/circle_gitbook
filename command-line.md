@@ -1,6 +1,6 @@
 # Command Line
 
-```
+```text
 cd - (changes directory)
 pwd - prints working (current) directory
 mkdir - (make directory) creates an empty directory
@@ -25,24 +25,3 @@ If anyone suggests you to sudo rm -r in your root directory, get as far away fro
 
 
 
-{% exercise %}
-Define a variable `x` equal to 10.
-
-{% initial %}
-var x =
-
-{% solution %}
-var x = 10;
-
-{% validation %}
-assert(x == 10);
-
-{% context %}
-// This is context code available everywhere
-// The user will be able to evaluate `exposedVar`
-var exposedVar = 3;
-// ... or call `exposedFunction`
-function exposedFunction {
-    return 3;
-}
-{% endexercise %}
